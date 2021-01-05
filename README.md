@@ -1,2 +1,0 @@
-# liwu
-Bot wa
